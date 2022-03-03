@@ -1,0 +1,16 @@
+                            /*Welcome To Frameiium Lite's Css Editor.*/
+/*The Rate Of An Object Is A Difficulty Level So If Your On Background Color Its A Easy To Learn But*/
+   /*If Its A 4-5 Its Hard To Learn Lets Hope After This You Can Code A Level 5 In HTM Or HTML*/
+         /*The Green Text Doesent Affect The Code It is Very Advised If Your Not A Pro- Pro Then 
+                                /*Dont Get Rid Of the green Text*/
+ /*The Base Of The Website*/
+Body {
+    /* Rate:1:The Background Color Of Your HomePage*/background-color: rgb(216, 113, 113);
+    /* Rate:1:The Size You Can Use .Px .Ch .In .cm or any other size prefix.*/font-size:PlaceHold;
+    /* Rate:2:The Font Of Your Website You Can Use Fonts Like arial, or Roboto.**/font-family:PlaceHold;
+    /* Rate:4:The Wieght Of The Font You chose.*/font-weight:PlaceHold;
+    /* Rate:3:The Style Of Font Like Bold Or oblique.*/font-style:PlaceHold;
+    /* Rate:4:The Variant Of Font/Text Like Initial or Small-caps*/font-variant:PlaceHold;
+    /* Rate:5:The Features Of The Font Like Half and halt*/font-feature-settings:PlaceHold;
+    /* Rate:4:The Stretch Of Your Font/Text Some examples are Narrower and Wider*/font-stretch:PlaceHold;
+}
